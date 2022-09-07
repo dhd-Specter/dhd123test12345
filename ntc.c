@@ -38,7 +38,7 @@ u16 wendu_count_dianzu_value(u16 wendu)
 	}
 	else 
 	{
-		i=wendu/5;
+		i=wendu/5; //
 		j=wendu%5;
 		temp=wendu_biao[i+6]-(wendu_biao[i+6]-wendu_biao[i+7])/5*j;
 		return(temp);
