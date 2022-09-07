@@ -79,7 +79,7 @@ typedef struct{
 		u16 VolSave;
 		u16 IdcSave;
 		u16 FreSave;
-		u16 PosSave;
+		u16 PosSave;  //1234
 	}ParSave;
 }FAULT_STRU;
 
