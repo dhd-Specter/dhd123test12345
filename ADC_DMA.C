@@ -11,7 +11,7 @@
 
 void ADC_DMA_vInit(void)
 {
-  DMA_InitType     DMA_InitStructure;
+  DMA_InitType     DMA_InitStructure; //
 	ADC_InitType     ADC_InitStructure;
 	GPIO_InitType    GPIO_InitStructure;	
 	
