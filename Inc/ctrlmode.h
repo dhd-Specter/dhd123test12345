@@ -77,9 +77,9 @@ typedef struct{
 	{
 		u16 FaultSave[5];       //the fault save
 		u16 VolSave;
-		u16 IdcSave;  //5678
+		u16 IdcSave;  //
 		u16 FreSave;
-		u16 PosSave;  //1234
+		u16 PosSave;  //test3
 	}ParSave;
 }FAULT_STRU;
 

@@ -38,7 +38,7 @@ extern LED_FLASH_STRU  g_hLedFlash;
 extern volatile s16 DelayTime;
 
 
-extern u16  g_uErrorCode; //12324
+extern u16  g_uErrorCode; //test3
 extern u32  ulIrate150Cnt;
 extern u16  uwVolBusCom;
 extern u16  uwTemper;
