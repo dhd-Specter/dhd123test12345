@@ -18,8 +18,8 @@
 #define 	bit_idle						  0
 #define 	bit_rxing						  1
 #define   bit_endok						  2
-#define 	txrx_idle						  0
-#define 	txrx_rxing						  1
+#define 	txrx_idle						  0 ////1213
+#define 	txrx_rxing						  1 //214
 #define   txrx_endok						  2
 #define   C_DATA_IDLE						  0XFF
 #define   C_max_data_jg_time		          3
