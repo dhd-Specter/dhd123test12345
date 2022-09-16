@@ -3,7 +3,7 @@
 #include "at32f4xx.h"
 
 
-#define 	C_NO_ERR              0  // 0:无故障
+#define 	C_NO_ERR              0  // 0:无故障  //
 #define 	C_GUOLIU              1  // 1:硬件过流
 #define 	C_GUOZAI              2  // 2:过载
 #define 	C_QIANYALI            3  // 3:欠压力
